@@ -1,0 +1,3 @@
+Cluster,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Monetary_Rank,Frequency_Rank,Recency_Rank
+0,2509,65.37,4.93,7089.71,1.0,1.0,1.0
+1,2491,186.5,1.88,1602.15,2.0,2.0,2.0
